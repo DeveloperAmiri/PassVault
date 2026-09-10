@@ -10,6 +10,7 @@ No cloud. No accounts. No plaintext secrets on disk. Ever.
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Tests](https://img.shields.io/badge/tests-10%20passed-brightgreen)
 ![Security](https://img.shields.io/badge/encryption-Fernet%20%2B%20PBKDF2-blueviolet)
+[![CI](https://github.com/DeveloperAmiri/PassVault/actions/workflows/ci.yml/badge.svg)](https://github.com/DeveloperAmiri/PassVault/actions/workflows/ci.yml)
 
 <img src="screenshots/demo.svg" width="720" alt="PassVault terminal screenshot">
 
